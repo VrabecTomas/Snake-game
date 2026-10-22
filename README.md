@@ -1,1 +1,2 @@
-# Snake-game
+# Snake Game
+Github pages 
